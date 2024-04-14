@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koko032819
 - 👀 I’m interested in ... Firmware/Software programming
-- 🌱 I’m currently learning ... C/java/Python/C#
+- 🌱 I’m currently learning ... C/C++/C#/Python
 - 📫 How to reach me ... koko032819@naver.com
 
 <!---
